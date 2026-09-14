@@ -1,6 +1,6 @@
 ﻿# 🚀 Clash & Surge for AI & 4K Streaming 2026-2027: Enterprise IPLC Nodes for ChatGPT, Claude, Cursor & Netflix (2026-2027 专注 AI 工具与 4K 流媒体的优质专线梯子与机场实测)
 
-[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--2027%20Rolling-brightgreen)](https://github.com/vpntuijian-jichangtuijian/clash-ai)
+[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--09--14-brightgreen)](https://github.com/vpntuijian-jichangtuijian/clash-ai)
 [![AI Native IP](https://img.shields.io/badge/AI%20IP-ChatGPT%20%7C%20Claude%20%7C%20Cursor-blue)](https://cloud.yuncataff.top/aff/github-com/vpntuijian-jichangtuijian/clash-ai/#/register?code=IJOjygWb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
